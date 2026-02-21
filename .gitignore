@@ -1,0 +1,31 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# TMC plugin local files
+.tmc/
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Python test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore local configuration files
+*.env
+*.envrc
